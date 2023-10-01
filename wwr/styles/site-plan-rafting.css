@@ -1,4 +1,4 @@
-@import url(https://fonts.google.com/specimen/Lobster?query=lob);
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 :root{
     --primary-color: #1F0322;
@@ -18,7 +18,7 @@
 
 body{
     font-family:var(--paragraph-font);
-    max-width: 960 px;
+    max-width: 960px;
     padding: 20px;
 
 }
