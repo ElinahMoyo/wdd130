@@ -23,19 +23,19 @@ h1{
 
 
 
-aside h2{
+aside{
     width: auto;
     margin: 2%;
     border: 2cm;
     padding: 10px;
     background-color:white;
     color: mediumpurple;
+    text-align: center;
+}
+aside h2{
     position: absolute;
     top: 47px;
     left: 150px;
-
-
-
 }
 aside img{
     width: 200px;
